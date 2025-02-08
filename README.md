@@ -7,7 +7,7 @@ This is my new Project of Amazon Clone Website Built using HTML,CSS and Javascri
 
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Shopping%201.png)
 
-![image alt]()
+![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Shopping%202.png)
 
 ![image alt]()
 
