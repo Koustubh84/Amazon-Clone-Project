@@ -9,6 +9,7 @@ CSS (Design): CSS is used for styling the website. It handles the design, such a
 JavaScript (Functionality): JavaScript adds interactive features. It enables functionalities like adding products to the cart, product filtering, searching, displaying product details, and handling the checkout process. JavaScript can also be used to dynamically update content without refreshing the page (using DOM manipulation and possibly AJAX).
 
 Key Features of an Amazon Clone:
+
 Homepage: Displays featured products, categories, search bar, and navigation.
 Product Pages: Lists individual products with images, descriptions, and prices.
 Shopping Cart: Users can add and remove items, adjust quantities, and view total price.
