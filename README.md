@@ -27,7 +27,9 @@ Below first two slides are the Hero-Scetion of my website for shopping
 
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Shopping%203.png)
 
+
 Last slide is the Foot-Panel of my website
+
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Foot-Panel.png)
 
 This clone would be a basic version, omitting advanced features like payment integration or backend support, but it provides a solid foundation for a functional e-commerce site using just frontend technologies.
