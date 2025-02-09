@@ -11,9 +11,13 @@ JavaScript (Functionality): JavaScript adds interactive features. It enables fun
 Key Features of an Amazon Clone:
 
 Homepage: Displays featured products, categories, search bar, and navigation.
+
 Product Pages: Lists individual products with images, descriptions, and prices.
+
 Shopping Cart: Users can add and remove items, adjust quantities, and view total price.
+
 User Authentication: Allows users to register, log in, and manage their accounts.
+
 Responsive Design: Ensures the website looks good on all devices, from desktops to smartphones.
 
 Below first two slides are the Hero-Scetion of my website for shopping 
