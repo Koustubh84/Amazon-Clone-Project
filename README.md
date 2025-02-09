@@ -15,6 +15,8 @@ Shopping Cart: Users can add and remove items, adjust quantities, and view total
 User Authentication: Allows users to register, log in, and manage their accounts.
 Responsive Design: Ensures the website looks good on all devices, from desktops to smartphones.
 
+Below first two slides are the Hero-Scetion of my website for shopping 
+
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/6c1910e840dde2d12ae95893194ba02d8df007db/Hero-Section.png)
 
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Hero-Section%202.png)
@@ -25,6 +27,7 @@ Responsive Design: Ensures the website looks good on all devices, from desktops 
 
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Shopping%203.png)
 
+Last slide is the Foot-Panel of my website
 ![image alt](https://github.com/Koustubh84/Amazon-Clone-Project/blob/main/Foot-Panel.png)
 
 This clone would be a basic version, omitting advanced features like payment integration or backend support, but it provides a solid foundation for a functional e-commerce site using just frontend technologies.
